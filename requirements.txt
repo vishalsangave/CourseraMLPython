@@ -1,0 +1,14 @@
+pandas
+matplotlib
+scipy
+scikit-learn
+scikit-image
+sympy
+numpy
+numba
+bokeh
+cloudpickle
+patsy
+cython
+seaborn
+dill
